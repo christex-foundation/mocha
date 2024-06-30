@@ -10,7 +10,7 @@ Welcome to Mocha, a pioneering financial service crafted for the African contine
 
 ## Repositories
 
-### WhatsApp API
+### Twilio Functions
 
 This repository contains all the necessary APIs for integrating WhatsApp services into our application. It utilizes Twilio's powerful communication APIs to enable seamless messaging experiences.
 
@@ -21,7 +21,7 @@ This repository contains all the necessary APIs for integrating WhatsApp service
   - Schema for Twilio's Studio Builder
 - **Repository Link:** [WhatsApp API Integration](https://github.com/christex-foundation/mocha-whatsapp.git)
 
-### WhatsApp Wallet
+### Core API
 
 This repository contains the necessary functions for integrating Solana. It uitilizes web3.js and has the logic to associate a whatsapp number with a USDC token account.
 
